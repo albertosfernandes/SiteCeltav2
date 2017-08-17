@@ -1,0 +1,80 @@
+﻿body {
+  padding-top: 290px;
+}
+
+/*CABEÇALHO*/
+.head{
+    width:100%;
+    height:auto;
+    background:#fafafa;
+    padding: 10px 0px 0px 0px
+    
+}
+
+.head img{
+    width:250px;
+    height:auto;
+    /*padding: 10px 10px 10px 10px*/
+}
+
+.head p{
+   font-size:10px;
+   color:#808080;
+    text-align:center
+}
+/*FIM CABEÇALHO*/
+
+/*NAVS*/
+#bootstrap-head-menu a:hover {
+    color: #ff0000;
+    text-decoration:none;
+    background-color: #000000;
+}
+
+#bootstrap-head-menu li {
+    padding: 0px 20px 0px 20px
+}
+
+/*NOVIDADES*/
+#titulo a:hover {
+    text-decoration: underline;
+    color: #e33a0c;
+}
+
+.meurodape{
+    background-color:#88a098;
+    width:50%;
+    height:auto;
+    position:relative; 
+    margin-top:15%; 
+    padding:20px 10px 10px 10px;
+  
+}
+
+#celtarodape{
+    padding: 0px 10px 10px 10px;
+}
+
+#celtarodape ul li{
+    list-style-type:none;
+    font-size:12px;
+    color:#fff;
+}
+
+#celtarodape li{
+    padding:2px 2px 2px 2px;
+    color:#fff;
+}
+
+#celtarodape a {
+    color:#fff;
+}
+
+#celtarodape a:hover{
+    text-decoration:underline;
+    color: #e33a0c;
+}
+
+.meurodape p {
+    color:#fff;
+}
